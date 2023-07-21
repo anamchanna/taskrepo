@@ -1,0 +1,15 @@
+{
+  "name": "task2-front-end",
+  "version": "1.0.0",
+  "description": "A front end for code evaluation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "private": true,
+  "license": "UNPUBLISHED",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
